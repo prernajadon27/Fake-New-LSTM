@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/krishnaik06/Fake-New-LSTM.git
+   git clone https://github.com/prernajadon27/Fake-New-LSTM.git
    ```
 
 2. Navigate to the project directory:
